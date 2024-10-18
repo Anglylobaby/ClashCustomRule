@@ -104,7 +104,7 @@ ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleNews/AppleNews_No_Resolve.yaml
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleProxy/AppleProxy_No_Resolve.yaml
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleTV/AppleTV_No_Resolve.yaml
-ruleset=🛍️ Etsy,clash-domain:https://raw.githubusercontent.com/Anglylobaby/ClashCustomRule/master/providers/Etsy_domain.yaml
+ruleset=🛍️ Etsy平台,clash-classic:https://raw.githubusercontent.com/Anglylobaby/ClashCustomRule/refs/heads/master/providers/Etsy_domain.yaml
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
@@ -160,7 +160,7 @@ custom_proxy_group=🎮 游戏平台`select`[]DIRECT`[]🚀 节点选择`[]♻�
 custom_proxy_group=📰 微博`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择`[]🇸🇬 新加坡节点-自动`[]🇭🇰 香港节点-自动`[]🇨🇳 台湾节点-自动`[]🇯🇵 日本节点-自动`[]🇺🇲 美国节点-自动`[]🇰🇷 韩国节点-自动`[]🇬🇧 英国节点`[]🇩🇪 德国节点`[]🇨🇦 加拿大节点`[]🇧🇷 巴西节点`[]🇮🇳 印度节点`[]🇱🇺 卢森堡节点`[]🇳🇱 荷兰节点`[]🇮🇹 意大利节点`[]🇨🇭 瑞士节点`[]🇫🇷 法国节点`[]🇸🇦 沙特阿拉伯节点`[]🇮🇱 以色列节点`[]🇦🇪 迪拜节点`[]🇲🇽 墨西哥节点`[]🇨🇱 智利节点`[]🇦🇷 阿根廷节点`[]🇿🇦 南非节点`[]🇸🇪 瑞典节点`[]🇹🇷 土耳其节点`[]🇦🇺 澳大利亚节点`[]🇵🇰 巴基斯坦节点`[]🇹🇭 泰国节点`[]🇵🇭 菲律宾节点`[]🇷🇺 俄罗斯节点`[]🇳🇴 挪威`[]🚀 手动切换
 custom_proxy_group=💬 微信`select`[]DIRECT`[]REJECT`[]🚀 手动切换
 custom_proxy_group=🍠 小红书`select`.*
-custom_proxy_group=🛍️ Etsy`select`.*
+custom_proxy_group=🛍️ Etsy平台`select`.*
 custom_proxy_group=🕺 字节跳动`select`[]DIRECT`[]REJECT`[]🚀 手动切换
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
