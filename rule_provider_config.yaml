@@ -104,6 +104,7 @@ ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleNews/AppleNews_No_Resolve.yaml
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleProxy/AppleProxy_No_Resolve.yaml
 ruleset=🍎 苹果服务,clash-classic:https://github.com/blackmatrix7/ios_rule_script/raw/master/rule/Clash/AppleTV/AppleTV_No_Resolve.yaml
+ruleset=🛍️ Etsy,clash-domain:https://raw.githubusercontent.com/Anglylobaby/ClashCustomRule/master/providers/Etsy_domain.yaml
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 ;设置规则标志位
