@@ -1,3 +1,4 @@
 payload:
   - '+.www.rhino3d.com'
   - '+.accounts.rhino3d.com'
+  - '+.logstash8.analytics.rhino3d.com'
