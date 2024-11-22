@@ -4,3 +4,4 @@ payload:
   - '+.logstash8.analytics.rhino3d.com'
   - '+.rhino'
   - '+.rhino3d'
+  - '+.api.mcneel.com'
