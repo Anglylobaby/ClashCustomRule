@@ -10,6 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
+ruleset=🛑 禁止 Rhino,clash-domain:https://raw.githubusercontent.com/Anglylobaby/ClashCustomRule/refs/heads/master/providers/BanRhino_domain.yaml
 ruleset=📲 Telegram,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Telegram_domain.yaml
 ruleset=📲 Telegram,clash-ipcidr:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Telegram_ipcidr.yaml,no-resolve
 ruleset=🎮 游戏平台,clash-domain:https://raw.githubusercontent.com/chinnsenn/ClashCustomRule/master/providers/Epic_domain.yaml
@@ -164,6 +165,7 @@ custom_proxy_group=🛍️ Etsy平台`select`.*
 custom_proxy_group=🕺 字节跳动`select`[]DIRECT`[]REJECT`[]🚀 手动切换
 custom_proxy_group=🎯 全球直连`select`[]DIRECT`[]🚀 节点选择`[]♻️ 自动选择
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
+custom_proxy_group=🛑 禁止 Rhino`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
 custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
 custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT
